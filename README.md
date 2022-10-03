@@ -1,1 +1,1 @@
-# Capsule-Defect-Detection
+# Tablet-Defect-Detection
